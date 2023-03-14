@@ -2,7 +2,7 @@ import React from 'react'
  
 const New = () => {
   return (
- <h1>New page</h1>
+ <h1>New</h1>
   )
 }  
  
